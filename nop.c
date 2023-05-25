@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * nop - lol this does nothing
+ * nop - does nothing
  * @stack: doesnt matter
  * @line_cnt : for nothing
  *

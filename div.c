@@ -5,8 +5,8 @@
 #include "monty.h"
 
 /**
- * _div - divides the next top value by the top value
- * @stack: stack given by main
+ * _div - it divides the next top value by the top value
+ * @stack: the stack given by main
  * @line_cnt: line counter
  *
  * Return: void

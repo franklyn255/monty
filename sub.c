@@ -5,7 +5,7 @@
 #include "monty.h"
 
 /**
- * _sub -  substracts the first two nodes of the stack
+ * _sub - it substracts the first two nodes of the stack
  * @stack: stack given by main
  * @line_cnt: line counter
  *
